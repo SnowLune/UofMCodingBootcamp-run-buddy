@@ -8,7 +8,7 @@ A website that offes fitness training services.
 * CSS
 
 ## Website
-https://lernantino.github.io/run-buddy/
+https://snowlune.github.io/UofMCodingBootcamp-run-buddy/
 
 ## Contribution
-Made with ❤️ by [your name]
+Made with ❤️ by SnowLune
